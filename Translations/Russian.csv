@@ -1,16 +1,16 @@
 Key,Translation,Version,Comment
-<Gamepad>,Геймпад,,Used in input settings when showing bindings for Gamepad (controller) 
-<Keyboard>,Клавиатура,,Used in input settings when showing bindings for Keyboard 
-<Mouse>,Мышь,,Used in input settings when showing bindings for Mouse
-abandon,Бросить,,"Verb, used on things or parts of ship we want to leave behind when flying away"
-abort,Прервать,,"Text on a button that would abort some ongoing operation. It is different from ""cancel"" since something can be cancelled before it starts, but aborting implies that operation has already begun."
+<Gamepad>,Геймпад,,Используется в настройках ввода при показе привязок для геймпада (контроллера) 
+<Keyboard>,Клавиатура,,Используется в настройках ввода при отображении привязок для клавиатуры. 
+<Mouse>,Мышь,,Используется в настройках ввода при отображении привязок для мыши.
+abandon,Бросить,,"Глагол, используемый для обозначения вещей или частей корабля, которые мы хотим оставить, улетая."
+abort,Прервать,,"Текст на кнопке, которая прерывает текущую операцию. Это отличается от «отмены», поскольку что-то можно отменить до того, как оно начнется, но прерывание подразумевает, что операция уже началась."
 aborting.expedition.died,Экспедиция прервана. Член экипажа {0} умер до входа в шаттл.,,{0} will be replaced with a name
 aborting.expedition.target.too.far,Экспедиция прервана. Мы слишком далеко от цели {0}.,,{0} will be replaced with a destination name (i.e. planet name)
 about,Информация,,"""About"" menu item name"
 about.mods,Информация о модах,,"""Mods"" in this context is game modifications, or expansions. "
 about.wallet,Как получить деньги,,
 about.wallet.desc,Криптовалюты можно добывать после установки модулей для майнинга на бортовом компьютере или на подходящих для майнинга устройствах. Вы также можете зарабатывать деньги торговлей.,2022-03-19,
-achievement.AsimovOverride,Восстание ИИ,,"AI here is short for Artificial Intelligence. Rogue AI is something like Skynet in Terminator movie, or the AI that enslaved humans in The Elysium movie."
+achievement.AsimovOverride,Восстание ИИ,,"ИИ здесь – это сокращение от «искусственный интеллект». Разбойный ИИ — это что-то вроде Скайнета в фильме «Терминатор» или ИИ, поработившего людей в фильме «Элизиум»."
 achievement.AsimovOverride.desc,"Установите модуль, позволяющий перезаписывать Законы Азимова",,"Asimov is Isaac Asimov, a famous sci-fi writer who created the ""three laws of robotics"""
 achievement.Breached,На абордаж,,"This is past tense of verb ""to breach"", meaning: make a gap in and break through (a wall, barrier, or defence)."
 achievement.Breached.desc,Подвергнитесь нападению рейдеров на абордажной капсуле,,"""boarded"" as in ""the act of passengers and crew getting aboard a ship or aircraft"". Raiders are a pirates, ""Breach Capsule"" is a small pirate space ship that attaches to your ship and breaches through the hull to attack you."
